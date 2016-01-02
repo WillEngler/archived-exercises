@@ -1,0 +1,4 @@
+[package]
+name = "rusty-tree"
+version = "0.1.0"
+authors = ["Will Engler <engler.will@gmail.com>"]
